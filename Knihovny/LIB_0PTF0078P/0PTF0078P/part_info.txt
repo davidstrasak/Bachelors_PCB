@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=0PTF0078P
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2018-11-19 17:43:13
+Downloaded=2024-10-21 14:23:23
+3D=Y

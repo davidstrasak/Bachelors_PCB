@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1935190
+PartCategory=Connector
+PackageCategory=Other
+PinCount=5
+Version=5.2
+Released=2019-08-30 12:32:22
+Downloaded=2024-10-14 13:57:07
+3D=Y

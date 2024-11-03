@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SK16
+D Rectifier Diode Schottky 60V 1A 2-Pin SMA T/R
+K
+F https://diotec.com/request/datasheet/sk12.pdf
+$ENDCMP
+#
+#End Doc Library

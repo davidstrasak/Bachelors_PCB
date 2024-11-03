@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '0PTF0078P'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LITTELFUSE", "0PTF0078P" (!) = "", "0PTF0078P", "Other", "576-0PTF0078P", "https://www.mouser.co.uk/ProductDetail/Littelfuse/0PTF0078P?qs=Co4VkB5J4%2Fsczy6gG8s%2FsA%3D%3D", "FUSEHOLDER-OPEN 5X20MM UL94V0 PITCH 22/6", "https://media.digikey.com/pdf/Data%20Sheets/Littelfuse%20PDFs/PTF075_77_78.pdf", "11.5 mm"
+END_PART
+
+END.

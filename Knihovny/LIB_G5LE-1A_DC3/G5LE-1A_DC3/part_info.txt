@@ -1,0 +1,9 @@
+Manufacturer=Omron Electronics
+PartNumber=G5LE-1A DC3
+PartCategory=Relay or Contactor
+PackageCategory=Other
+PinCount=4
+Version=2.2
+Released=2020-05-23 18:43:06
+Downloaded=2024-10-20 15:01:34
+3D=Y

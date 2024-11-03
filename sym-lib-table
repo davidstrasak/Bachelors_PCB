@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DCDC conv")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_CRE1S2405SC/CRE1S2405SC/KiCad/CRE1S2405SC.kicad_sym")(options "")(descr ""))
+  (lib (name "DCDC L")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_82103C/82103C/KiCad/82103C.kicad_sym")(options "")(descr ""))
+  (lib (name "type c relay")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_G5LE-1-DC3/G5LE-1-DC3/KiCad/G5LE-1-DC3.kicad_sym")(options "")(descr ""))
+  (lib (name "type a relay")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_G5LE-1A_DC3/G5LE-1A_DC3/KiCad/G5LE-1A_DC3.kicad_sym")(options "")(descr ""))
+  (lib (name "600mA fuse")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_0PTF0078P/0PTF0078P/KiCad/0PTF0078P.kicad_sym")(options "")(descr ""))
+  (lib (name "470uF C")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_860010273011/860010273011/KiCad/860010273011.kicad_sym")(options "")(descr ""))
+  (lib (name "schottky")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_SK16/SK16/KiCad/SK16.kicad_sym")(options "")(descr ""))
+  (lib (name "mosfet")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_DMN65D8L-7/DMN65D8L-7/KiCad/DMN65D8L-7.kicad_sym")(options "")(descr ""))
+)

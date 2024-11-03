@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "CRE1_SC_"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "CRE1_SC_")
+        (spec "default")
+    )
+)

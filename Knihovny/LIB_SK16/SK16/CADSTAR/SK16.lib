@@ -1,0 +1,16 @@
+.SK16 :1 ;Rectifier Diode Schottky 60V 1A 2-Pin SMA T/R
+DIOM5027X250N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SK16
+~!Mouser Part Number (637-SK16)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diotec-Semiconductor/SK16?qs=OlC7AqGiEDm3ojchOaQs2w%3D%3D)
+~!Manufacturer_Name (Diotec)
+~!Manufacturer_Part_Number (SK16)
+~!Link Datasheet (https://diotec.com/request/datasheet/sk12.pdf)
+~!Height (2.5mm)
+~!3D_Model (SK16)
+SK16
+1.1!U 2.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '860010273011'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "860010273011" (!) = "", "CAPPRD250W52D630H1250", "Capacitor, Polarized Radial Diameter", "710-860010273011", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/860010273011?qs=0KOYDY2FL28ooChuQJugtQ%3D%3D", "Wurth Elektronik 470uF 10 V Aluminium Electrolytic Capacitor, WCAP-ATG8 Series 2000h 6.3 (Dia.) x 11mm", "https://katalog.we-online.de/pbs/datasheet/860010273011.pdf", "12.5 mm"
+END_PART
+
+END.

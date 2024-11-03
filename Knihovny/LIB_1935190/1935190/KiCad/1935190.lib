@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 1935190
+#/259199/1502846/2.50/5/2/Connector
+DEF 1935190 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1935190" 650 200 50 H V L CNN
+F2 "1935190" 650 100 50 H I L CNN
+F3 "https://www.phoenixcontact.com/online/portal/us/pxc/product_detail_page/!ut/p/z1/3Vdbc5pAFP4r5sG3rLsLLEJn-oDGlJjEYsQqvDDssma24RZETf31Xbyk1Wn1IeN0CnNm2D2c853L8jEc6MMp9NNwKZ7DUmRpGMu95-uB23F7PUfR8dch6aC7G9LtPWhP2B4o8Bv0oV-GFHq4WsWCFmHxA3qLOU8rRS4i-chUCTZRtc" 650 0 50 H I L CNN
+F4 "PCB terminal block, nominal current: 17.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 5, Number of rows: 1, Number of positions per row: 5, product range: PT 1,5/..-H, pitch: 5 mm, connection method: Screw connection with wire protector, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard" 650 -100 50 H I L CNN "Description"
+F5 "11.55" 650 -200 50 H I L CNN "Height"
+F6 "651-1935190" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1935190?qs=QWULklcAmSS%2FS46GSzyZOw%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1935190" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

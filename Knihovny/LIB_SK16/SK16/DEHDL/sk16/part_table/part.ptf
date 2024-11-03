@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SK16'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diotec", "SK16" (!) = "", "DIOM5027X250N", "Diodes Moulded", "637-SK16", "https://www.mouser.co.uk/ProductDetail/Diotec-Semiconductor/SK16?qs=OlC7AqGiEDm3ojchOaQs2w%3D%3D", "Rectifier Diode Schottky 60V 1A 2-Pin SMA T/R", "https://diotec.com/request/datasheet/sk12.pdf", "2.5 mm"
+END_PART
+
+END.

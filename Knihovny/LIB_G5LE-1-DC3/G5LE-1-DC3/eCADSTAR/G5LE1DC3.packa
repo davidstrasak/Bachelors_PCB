@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "G5LE-1-DC3"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-09-28-18:07:10)
+    (mountForm default
+        (footprintRef "G5LE1DC3")
+        (spec "System")
+    )
+)

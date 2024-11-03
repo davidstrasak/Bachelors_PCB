@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "860010273011"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-07-30-09:33:55)
+    (mountForm default
+        (footprintRef "CAPPRD250W52D630H1250")
+        (spec "System")
+    )
+)

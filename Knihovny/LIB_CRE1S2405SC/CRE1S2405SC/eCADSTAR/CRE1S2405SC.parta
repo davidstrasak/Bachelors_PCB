@@ -1,0 +1,73 @@
+(Japanese_coding: sjis)
+(function "ECS_792166"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-10-16-11:30:08)
+    (utime 2024-09-27-16:37:47)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+        (port "4" (symbPinId 4) (portType INOUT))
+    )
+    (property "symbolName" "CRE1S2405SC")
+)
+
+
+(pinAssign "ECS_792166"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-10-16-11:30:08)
+    (utime 2024-09-27-16:37:47)
+    (interface
+        (port "1" (symbPinId 1) (portName "-VIN") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "+VIN") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "-VOUT") (portType INOUT))
+        (port "4" (symbPinId 4) (portName "+VOUT") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_792166")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+                (port "4" (match "4"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CRE1S2405SC")
+)
+
+
+(part "CRE1S2405SC"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-10-16-11:30:08)
+    (utime 2024-09-27-16:37:47)
+    (packageRef "CRE1S2405SC")
+    (pinAssignRef "ECS_792166")
+    (interface
+        (port "1" (symbPinId 1) (portName "-VIN") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "+VIN") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "-VOUT") (portType INOUT))
+        (port "4" (symbPinId 4) (portName "+VOUT") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "PS")
+    (property "description" "Isolated 1W Single Output Isolated DC/DC Converters")
+    (property "Mouser_Part_Number" "580-CRE1S2405SC")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/CRE1S2405SC?qs=pFP7BvE1PmwUsyXD%252BXcXxQ%3D%3D")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "CRE1S2405SC")
+    (property "Datasheet_Link" "http://power.murata.com/datasheet?/data/power/ncl/kdc_cre1.pdf")
+)
+
+

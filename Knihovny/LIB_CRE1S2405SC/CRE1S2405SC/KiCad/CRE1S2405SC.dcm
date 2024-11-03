@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CRE1S2405SC
+D Isolated 1W Single Output Isolated DC/DC Converters
+K
+F http://power.murata.com/datasheet?/data/power/ncl/kdc_cre1.pdf
+$ENDCMP
+#
+#End Doc Library

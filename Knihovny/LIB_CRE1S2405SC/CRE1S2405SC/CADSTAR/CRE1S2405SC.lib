@@ -1,0 +1,16 @@
+.CRE1S2405SC :1 ;Isolated 1W Single Output Isolated DC/DC Converters
+CRE1_SC_
+*STM PS
+*NGS
+*PLB 1="-VIN" 2="+VIN" 3="-VOUT" 4="+VOUT"
+*MXP 4
+*DFN CRE1S2405SC
+~!Mouser Part Number (580-CRE1S2405SC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/CRE1S2405SC?qs=pFP7BvE1PmwUsyXD%252BXcXxQ%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (CRE1S2405SC)
+~!Link Datasheet (http://power.murata.com/datasheet?/data/power/ncl/kdc_cre1.pdf)
+~!Height (-)
+~!3D_Model (CRE1S2405SC)
+CRE1S2405SC
+1.1!U 2.1!U 3.1!U 4.1!U 

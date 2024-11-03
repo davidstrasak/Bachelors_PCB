@@ -1,0 +1,16 @@
+.860010273011 :1 ;Wurth Elektronik 470uF 10 V Aluminium Electrolytic Capacitor, WCAP-ATG8 Series 2000h 6.3 (Dia.) x 11mm
+CAPPRD250W52D630H1250
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN 860010273011
+~!Mouser Part Number (710-860010273011)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/860010273011?qs=0KOYDY2FL28ooChuQJugtQ%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (860010273011)
+~!Link Datasheet (https://katalog.we-online.de/pbs/datasheet/860010273011.pdf)
+~!Height (12.5mm)
+~!3D_Model (860010273011)
+"860010273011"
+1.1!U 2.1!U 

@@ -1,0 +1,16 @@
+.DMN65D8L-7 :1 ;N-Channel Enhancement MOSFET SOT-23 Diodes Inc DMN65D8L-7 N-channel MOSFET Transistor, 310 mA, 60 V, 3-Pin SOT-23
+SOT96P240X115-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN DMN65D8L-7
+~!Mouser Part Number (621-DMN65D8L-7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN65D8L-7?qs=gfe7vQ8txpWvqTwiknwghA%3D%3D)
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (DMN65D8L-7)
+~!Link Datasheet (https://www.diodes.com//assets/Datasheets/DMN65D8L.pdf)
+~!Height (1.15mm)
+~!3D_Model (DMN65D8L-7)
+DMN65D8L-7
+1.1!U 2.1!U 3.1!U 

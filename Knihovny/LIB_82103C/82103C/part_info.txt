@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=82103C
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2018-03-28 08:49:15
+Downloaded=2024-10-04 21:27:08
+3D=Y

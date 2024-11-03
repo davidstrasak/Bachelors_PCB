@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CRE1S2405SC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Murata Electronics", "CRE1S2405SC" (!) = "", "CRE1(SC)", "Other", "580-CRE1S2405SC", "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/CRE1S2405SC?qs=pFP7BvE1PmwUsyXD%252BXcXxQ%3D%3D", "Isolated 1W Single Output Isolated DC/DC Converters", "http://power.murata.com/datasheet?/data/power/ncl/kdc_cre1.pdf"
+END_PART
+
+END.

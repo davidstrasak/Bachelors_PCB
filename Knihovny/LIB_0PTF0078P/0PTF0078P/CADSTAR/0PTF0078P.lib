@@ -1,0 +1,16 @@
+.0PTF0078P :1 ;FUSEHOLDER-OPEN 5X20MM UL94V0 PITCH 22/6
+"0PTF0078P"
+*STM U
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 0PTF0078P
+~!Mouser Part Number (576-0PTF0078P)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/0PTF0078P?qs=Co4VkB5J4%2Fsczy6gG8s%2FsA%3D%3D)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (0PTF0078P)
+~!Link Datasheet (https://media.digikey.com/pdf/Data%20Sheets/Littelfuse%20PDFs/PTF075_77_78.pdf)
+~!Height (11.5mm)
+~!3D_Model (0PTF0078P)
+"0PTF0078P"
+1.1!U 2.1!U 

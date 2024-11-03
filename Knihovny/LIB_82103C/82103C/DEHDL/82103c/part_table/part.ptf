@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '82103C'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Murata Electronics", "82103C" (!) = "", "8200", "Other", "580-82103C", "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/82103C?qs=5CKLVr1iF0k04N3DPxLd2A%3D%3D", "Fixed Inductor 10uH 0.5A Mini SMD Power Murata 8200 Series Wire-wound SMD Inductor 10 uH Wire-Wound 500mA Idc Q:35", "https://componentsearchengine.com/Datasheets/3/82103C.pdf"
+END_PART
+
+END.

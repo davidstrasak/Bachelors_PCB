@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'G5LE_1_DC3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Omron Electronics", "G5LE-1-DC3" (!) = "", "G5LE1DC3", "Other", "653-G5LE-1-DC3", "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/G5LE-1-DC3?qs=Mrnyg3lK62ERI7jHW9tK%2Fg%3D%3D", "General Purpose Relays SPDT 3VDC Flux Protected", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA17/900770.pdf", "19 mm"
+END_PART
+
+END.

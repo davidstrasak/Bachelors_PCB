@@ -1,0 +1,16 @@
+.82103C :1 ;Fixed Inductor 10uH 0.5A Mini SMD Power Murata 8200 Series Wire-wound SMD Inductor 10 uH Wire-Wound 500mA Idc Q:35
+"8200"
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 82103C
+~!Mouser Part Number (580-82103C)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/82103C?qs=5CKLVr1iF0k04N3DPxLd2A%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (82103C)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/3/82103C.pdf)
+~!Height (-)
+~!3D_Model (82103C)
+"82103C"
+1.1!U 2.1!U 
