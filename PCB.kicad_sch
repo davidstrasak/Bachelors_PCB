@@ -2875,340 +2875,6 @@
 				)
 			)
 		)
-		(symbol "Switch:SW_Push_DPDT"
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at 0 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SW_Push_DPDT"
-				(at 0 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Momentary Switch, dual pole double throw"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "switch dual-pole double-throw spdt ON-ON"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SW_Push_DPDT_0_0"
-				(circle
-					(center -2.032 -5.08)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -2.032 5.08)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 -7.62)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 2.54)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SW_Push_DPDT_0_1"
-				(polyline
-					(pts
-						(xy -1.524 -4.826) (xy 2.3368 -3.0988)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.524 5.334) (xy 2.3368 7.0612)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.286) (xy 0 -4.064)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.016) (xy 0 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.556) (xy 0 4.572)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 7.874) (xy 0 6.096)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 -2.54)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 7.62)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SW_Push_DPDT_1_1"
-				(rectangle
-					(start -3.175 8.89)
-					(end 3.175 -8.89)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 5.08 7.62 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 5.08 0)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -7.62 180)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "mosfet:DMN65D8L-7"
 			(pin_names hide)
 			(exclude_from_sim no)
@@ -4369,16 +4035,8 @@
 		(uuid "cf6e4eed-3dcc-4ec8-868f-23299ba2963e")
 	)
 	(no_connect
-		(at 44.45 87.63)
-		(uuid "d840f586-6c59-4fe4-ba6d-9a55f15daeb6")
-	)
-	(no_connect
 		(at 152.4 27.94)
 		(uuid "ef6ac5af-b81a-4128-9ac2-9653c0107f53")
-	)
-	(no_connect
-		(at 44.45 77.47)
-		(uuid "efaf0243-0ce4-4bcc-ad0b-77ec5735e26a")
 	)
 	(no_connect
 		(at 201.93 57.15)
@@ -5219,16 +4877,6 @@
 		)
 		(uuid "629f25f1-d45f-4824-80ed-4ad95c6ab993")
 	)
-	(text "switch nebude\npripajen na pcb\ntady jsou jenom \nsolder pads"
-		(exclude_from_sim no)
-		(at 55.88 77.216 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "6b46c319-0822-42db-8315-8254f6bc47c8")
-	)
 	(text "devboard by mel brat max 450 mA a ma IO pin proud 12mA"
 		(exclude_from_sim no)
 		(at 244.856 23.368 0)
@@ -5599,7 +5247,7 @@
 	)
 	(global_label "DOA"
 		(shape input)
-		(at 44.45 82.55 0)
+		(at 45.72 85.09 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5609,7 +5257,7 @@
 		)
 		(uuid "3cf3d115-17a5-49cb-8ff7-55487ec2555b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 51.1243 82.55 0)
+			(at 52.3943 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5863,7 +5511,7 @@
 	)
 	(global_label "J3 24V"
 		(shape output)
-		(at 34.29 90.17 180)
+		(at 35.56 90.17 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5873,7 +5521,7 @@
 		)
 		(uuid "76dfb5e6-15ac-4460-be74-a25dd414f42e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 24.6525 90.17 0)
+			(at 25.9225 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5885,7 +5533,7 @@
 	)
 	(global_label "local DI0"
 		(shape input)
-		(at 44.45 92.71 0)
+		(at 45.72 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5895,7 +5543,7 @@
 		)
 		(uuid "782e65b9-e319-4778-989f-f8332928596e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 56.2041 92.71 0)
+			(at 57.4741 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6193,7 +5841,7 @@
 	)
 	(global_label "MCU 3V3"
 		(shape output)
-		(at 34.29 80.01 180)
+		(at 35.56 85.09 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6203,7 +5851,7 @@
 		)
 		(uuid "d8fc3aef-e6f3-44ff-bf0c-5f36fdc7fc9e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.7777 80.01 0)
+			(at 24.0477 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7495,6 +7143,80 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_DPST")
+		(at 40.64 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ba6f06c-304c-4b39-915e-f33f30aad4ec")
+		(property "Reference" "SW1"
+			(at 40.64 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Local DI0 (onoff)"
+			(at 40.64 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x04_P4.8mm_D0.9mm_OD2.3mm_Relief"
+			(at 40.64 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 40.64 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Double Pole Single Throw (DPST) Switch"
+			(at 40.64 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "65870f23-79d0-4b99-aecf-a72057fef5e7")
+		)
+		(pin "1"
+			(uuid "9262c1e7-dcaa-4cde-9018-6efbd3fcce9d")
+		)
+		(pin "2"
+			(uuid "34b645dd-e11c-400d-b57c-450cb7e88b2e")
+		)
+		(pin "4"
+			(uuid "23d4c818-7dbb-4478-ac74-dff7da647305")
+		)
+		(instances
+			(project "PCB"
+				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Relay:G5LE-1")
 		(at 151.13 144.78 270)
 		(unit 1)
@@ -8374,7 +8096,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_SPDT"
+		(property "Value" "local/remote switch"
 			(at 273.05 52.07 0)
 			(effects
 				(font
@@ -9343,86 +9065,6 @@
 			(project ""
 				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
 					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_DPDT")
-		(at 39.37 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "da266280-0761-427d-b312-4de8453bcf18")
-		(property "Reference" "SW4"
-			(at 39.37 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "local DI0 (onoff)"
-			(at 39.37 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x04_P4.8mm_D0.9mm_OD2.3mm_Relief"
-			(at 39.37 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 39.37 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Momentary Switch, dual pole double throw"
-			(at 39.37 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "88ddcaaf-4b00-4201-a39b-ae7e704818a8")
-		)
-		(pin "2"
-			(uuid "6315c058-7ccc-46e7-b70b-a778ddeba3b3")
-		)
-		(pin "1"
-			(uuid "81775869-5121-4d60-a405-4186ec81cd89")
-		)
-		(pin "6"
-			(uuid "7ff2c2db-e608-4fed-b353-5ed7fb0ef62d")
-		)
-		(pin "3"
-			(uuid "86b5dc21-032f-461f-b85b-a95697ad9352")
-		)
-		(pin "4"
-			(uuid "08ae575c-e19b-4665-b475-b10108ff79ae")
-		)
-		(instances
-			(project ""
-				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
-					(reference "SW4")
 					(unit 1)
 				)
 			)
