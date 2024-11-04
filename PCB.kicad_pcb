@@ -164,8 +164,8 @@
 		(at 80.5 215.5)
 		(descr "1729128")
 		(tags "Connector")
-		(property "Reference" "J2"
-			(at 0 0 0)
+		(property "Reference" "J2_screw_term"
+			(at 0.5 2 0)
 			(layer "F.SilkS")
 			(uuid "72eb01b7-8fe9-421c-89c9-2dc34d933140")
 			(effects
@@ -410,8 +410,8 @@
 		(at 131.825 118 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R3"
-			(at 0 -1.43 360)
+		(property "Reference" "R3_4k7"
+			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "dd4146e9-21f6-4010-8a53-c69d74906e29")
 			(effects
@@ -422,7 +422,7 @@
 			)
 		)
 		(property "Value" "4k7"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "52d40db2-13ca-4b5a-b1c3-604955b3e771")
 			(effects
@@ -577,7 +577,7 @@
 			(uuid "5c3acfab-c2f6-4de7-86c4-4caa2b67949b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "b455a2ae-86cf-40e7-97ce-32abe1835b08")
 			(effects
@@ -623,8 +623,8 @@
 		(at 98.5 204.2 90)
 		(descr "G5LE-1-DC3-1")
 		(tags "Relay or Contactor")
-		(property "Reference" "K4"
-			(at 8.225 0 90)
+		(property "Reference" "Relay_TypeC"
+			(at 8.7 0 90)
 			(layer "F.SilkS")
 			(uuid "3e9ed8b9-1e4c-401d-be41-93c50703984b")
 			(effects
@@ -850,7 +850,7 @@
 			(uuid "1179fea1-c00e-4542-8b5c-77f2ea98d13d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 8.225 0 90)
+			(at 8.7 0 90)
 			(layer "F.Fab")
 			(uuid "d37949cd-b506-4874-b39c-5c2a06b11dcc")
 			(effects
@@ -928,8 +928,8 @@
 		(at 138 122 -90)
 		(descr "16-pin module, column spacing 22.86 mm (900 mils), https://wiki.wemos.cc/products:d1:d1_mini, https://c1.staticflickr.com/1/734/31400410271_f278b087db_z.jpg")
 		(tags "ESP8266 WiFi microcontroller")
-		(property "Reference" "U1"
-			(at 22 27 90)
+		(property "Reference" "WeMos_D1_mini_pro"
+			(at 11 28 90)
 			(layer "F.SilkS")
 			(uuid "19418526-d23e-40a4-bec9-01a7a8143f9d")
 			(effects
@@ -1463,7 +1463,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 11.43 10 90)
+			(at 11.43 10 180)
 			(layer "F.Fab")
 			(uuid "2b485da5-8046-4328-9fd4-1f9d88e6d318")
 			(effects
@@ -1711,8 +1711,8 @@
 		(at 78 200.145 90)
 		(descr "8200")
 		(tags "Inductor")
-		(property "Reference" "L2"
-			(at -0.37162 -0.07824 90)
+		(property "Reference" "L2_10uH"
+			(at -0.855 -3.5 90)
 			(layer "F.SilkS")
 			(uuid "b5342ee3-2d81-43c4-8364-308d45da5f57")
 			(effects
@@ -1880,7 +1880,7 @@
 			(uuid "3f158d73-d09b-4048-b3d4-4ee26c328eac")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -0.37162 -0.07824 90)
+			(at -0.855 -3.5 90)
 			(layer "F.Fab")
 			(uuid "892527ab-fc74-4f40-8bd5-0f07214f7787")
 			(effects
@@ -1926,7 +1926,7 @@
 		(at 118 178.2 90)
 		(descr "G5LE-1A4-DC5-4")
 		(tags "Relay or Contactor")
-		(property "Reference" "K7"
+		(property "Reference" "Relay_TypeA"
 			(at 8.375 0 90)
 			(layer "F.SilkS")
 			(uuid "4dce66ed-7afb-4c0c-8dd4-5a485c13dc5c")
@@ -3129,8 +3129,8 @@
 		(at 121 153.5)
 		(descr "6.3*11")
 		(tags "Capacitor Polarised")
-		(property "Reference" "C3"
-			(at 0 0 0)
+		(property "Reference" "C3_470uF"
+			(at 9.5 0 0)
 			(layer "F.SilkS")
 			(uuid "b8def4c1-5cda-429c-a9ce-8535e860c978")
 			(effects
@@ -3330,7 +3330,7 @@
 		(at 137.5 178.2 90)
 		(descr "G5LE-1A4-DC5-4")
 		(tags "Relay or Contactor")
-		(property "Reference" "K2"
+		(property "Reference" "Relay_TypeA"
 			(at 8.375 0 90)
 			(layer "F.SilkS")
 			(uuid "ae5a568b-e2a1-4c9b-80e4-3d780f54869e")
@@ -3714,8 +3714,8 @@
 		(at 121.5 214.5)
 		(descr "1935190-1")
 		(tags "Connector")
-		(property "Reference" "J4"
-			(at 10.285 0.5 0)
+		(property "Reference" "J4_screw_terminal"
+			(at 10.5 2.5 0)
 			(layer "F.SilkS")
 			(uuid "808a9f0f-0d26-4e42-879f-de01f334143d")
 			(effects
@@ -3941,7 +3941,7 @@
 			(uuid "f49d7180-139d-4619-9349-a69c8998551d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 10.285 0.5 0)
+			(at 10.5 2.5 0)
 			(layer "F.Fab")
 			(uuid "cdbba96a-3650-4fe4-969a-5372826bc5d6")
 			(effects
@@ -4024,7 +4024,7 @@
 		(at 98.5 178.2 90)
 		(descr "G5LE-1A4-DC5-4")
 		(tags "Relay or Contactor")
-		(property "Reference" "K1"
+		(property "Reference" "Relay_TypeA"
 			(at 8.375 0 90)
 			(layer "F.SilkS")
 			(uuid "f07b7a2a-d922-49cd-9c14-5ef44f9169eb")
@@ -4408,7 +4408,7 @@
 		(at 66.5 131.825 -90)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R2"
+		(property "Reference" "R2_4k7"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
 			(uuid "04d01752-25b5-47b1-b9d5-ae053b71dbd2")
@@ -4940,8 +4940,8 @@
 		(at 81.225 199)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
-		(property "Reference" "C1"
-			(at 0 -1.43 0)
+		(property "Reference" "C1_22uF"
+			(at 1.275 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "2062f5e6-3a59-4786-96d6-689aa2bad6bc")
 			(effects
@@ -5153,7 +5153,7 @@
 		(at 117.5 204 90)
 		(descr "G5LE-1-DC3-1")
 		(tags "Relay or Contactor")
-		(property "Reference" "K3"
+		(property "Reference" "Relay_TypeC"
 			(at 8.225 0 90)
 			(layer "F.SilkS")
 			(uuid "f6fc1296-a927-4dd1-9051-ed41e2507b36")
@@ -5458,8 +5458,8 @@
 		(at 86.12 204.5 -90)
 		(descr "http://power.murata.com/data/power/ncl/kdc_cre1.pdf")
 		(tags "murata dc-dc transformer")
-		(property "Reference" "PS1"
-			(at 0.5 -3.5 90)
+		(property "Reference" "DC/DC:24V/5V"
+			(at 3 15.62 360)
 			(layer "F.SilkS")
 			(uuid "6263ee12-4629-48d2-8270-0c51e9bc89dd")
 			(effects
@@ -5811,7 +5811,7 @@
 		(at 136 204 90)
 		(descr "G5LE-1-DC3-1")
 		(tags "Relay or Contactor")
-		(property "Reference" "K6"
+		(property "Reference" "Relay_TypeC"
 			(at 8.225 0 90)
 			(layer "F.SilkS")
 			(uuid "8b8046a6-41e7-419b-b80a-8849284a9541")
@@ -6116,8 +6116,8 @@
 		(at 93.215 214.5)
 		(descr "1935190-1")
 		(tags "Connector")
-		(property "Reference" "J3"
-			(at 10.285 0.5 0)
+		(property "Reference" "J3_screw_terminal"
+			(at 10.785 2.5 0)
 			(layer "F.SilkS")
 			(uuid "fcbb7fa7-dce7-4e67-a866-7346becb5e53")
 			(effects
@@ -6343,7 +6343,7 @@
 			(uuid "a24b08d1-b1c8-4982-8b5f-d654fe5132a7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 10.285 0.5 0)
+			(at 10.785 2.5 0)
 			(layer "F.Fab")
 			(uuid "c66201ec-677d-45c1-a781-da4ffb006880")
 			(effects
@@ -6426,8 +6426,8 @@
 		(at 141.5 198 -90)
 		(descr "DMN65D8L-7")
 		(tags "MOSFET (N-Channel)")
-		(property "Reference" "Q3"
-			(at 0 0 90)
+		(property "Reference" "Q3_MOSFET"
+			(at 0 -3 90)
 			(layer "B.SilkS")
 			(uuid "3b5c5100-4387-42c0-8d99-6393e6f2f4b0")
 			(effects
@@ -6705,7 +6705,7 @@
 			(uuid "9d8ff71e-6c16-4489-9bcb-e30183224ed2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 -3 90)
 			(layer "B.Fab")
 			(uuid "b12e6ae2-a398-42f2-a516-348c2d358803")
 			(effects
@@ -6761,8 +6761,8 @@
 		(at 104 198.5 -90)
 		(descr "DMN65D8L-7")
 		(tags "MOSFET (N-Channel)")
-		(property "Reference" "Q2"
-			(at 0 0 90)
+		(property "Reference" "Q2_MOSFET"
+			(at 0 -3 90)
 			(layer "B.SilkS")
 			(uuid "2ee5b91e-b33b-42f6-9a9e-9241ba04e96b")
 			(effects
@@ -7040,7 +7040,7 @@
 			(uuid "a50007ac-17e6-4fe6-b8b8-45e97ddb2ab7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 -3 90)
 			(layer "B.Fab")
 			(uuid "caa91700-b0c2-4363-8328-2f1c67217227")
 			(effects
@@ -8578,8 +8578,8 @@
 		(at 123 198 -90)
 		(descr "DMN65D8L-7")
 		(tags "MOSFET (N-Channel)")
-		(property "Reference" "Q1"
-			(at 0 0 90)
+		(property "Reference" "Q1_MOSFET"
+			(at 0 -2 90)
 			(layer "B.SilkS")
 			(uuid "31b4d158-5c9b-4135-a621-516e3b90abe9")
 			(effects
@@ -8857,7 +8857,7 @@
 			(uuid "e8088903-5ef6-424a-adbf-be3d37c13af0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 -2 90)
 			(layer "B.Fab")
 			(uuid "734f44e3-97e9-49e7-b076-45d9877d7579")
 			(effects
@@ -9654,7 +9654,7 @@
 		(at 122.825 148.5)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "R1"
+		(property "Reference" "R1_4k7"
 			(at 0 1.43 0)
 			(layer "B.SilkS")
 			(uuid "a4c24cf3-9e8d-41d5-987e-8c02704a0347")
@@ -9826,7 +9826,7 @@
 			(uuid "e5788b0d-2294-4bbd-a156-77bbcc5b7e6e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 2.675 -0.25 0)
 			(layer "B.Fab")
 			(uuid "57ab3a59-f0f1-437a-885e-3bd96c6efab3")
 			(effects
@@ -9873,8 +9873,8 @@
 		(at 98.5 200)
 		(descr "SMA~DO-214AC")
 		(tags "Schottky Diode")
-		(property "Reference" "D2"
-			(at 0 0 0)
+		(property "Reference" "D2_Schottky"
+			(at -2 -2.5 0)
 			(layer "B.SilkS")
 			(uuid "5e92f17e-73f4-45a5-ba7c-b76e852df2dc")
 			(effects
@@ -10169,8 +10169,8 @@
 		(at 136 200)
 		(descr "SMA~DO-214AC")
 		(tags "Schottky Diode")
-		(property "Reference" "D3"
-			(at 0 0 0)
+		(property "Reference" "D3_Schottky"
+			(at -2.5 -2.5 0)
 			(layer "B.SilkS")
 			(uuid "87b00383-1cd3-40c9-8482-b279007bcf08")
 			(effects
@@ -10465,8 +10465,8 @@
 		(at 117.5 200)
 		(descr "SMA~DO-214AC")
 		(tags "Schottky Diode")
-		(property "Reference" "D1"
-			(at 0 0 0)
+		(property "Reference" "D1_Schottky"
+			(at -2 -2.5 0)
 			(layer "B.SilkS")
 			(uuid "889bf16c-4665-44fb-b5fd-1f0aad354e84")
 			(effects
@@ -11312,14 +11312,6 @@
 		(uuid "e5097e5b-9014-42f2-bd07-5ffc11b064cd")
 	)
 	(segment
-		(start 80.45 199)
-		(end 80.5 199)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "ecd833f0-fdd0-43dd-938f-9c9c441fcbb8")
-	)
-	(segment
 		(start 121.484745 202)
 		(end 122.984745 203.5)
 		(width 0.2)
@@ -11448,6 +11440,22 @@
 		(uuid "df795287-92ad-4360-8236-73cf59a4ade6")
 	)
 	(segment
+		(start 122.76 144.86)
+		(end 122.76 144.51)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 2)
+		(uuid "37d4cdc3-dd78-49f4-b188-661f924faa22")
+	)
+	(segment
+		(start 122.76 144.51)
+		(end 121.25 143)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 2)
+		(uuid "492b7fb4-dd36-45c0-b35e-4ed559388556")
+	)
+	(segment
 		(start 86.12 214.96)
 		(end 85.58 215.5)
 		(width 0.2)
@@ -11458,7 +11466,7 @@
 	(segment
 		(start 86.12 204.5)
 		(end 86.12 214.96)
-		(width 0.2)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 3)
 		(uuid "f831b7b5-5ab7-467a-971c-37ed605ee1ae")
@@ -11722,7 +11730,7 @@
 	(segment
 		(start 83.58 204.5)
 		(end 83.58 212.42)
-		(width 0.2)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 14)
 		(uuid "01104e5f-d5f6-42c3-8cc4-cefa44bcd73a")
@@ -11730,7 +11738,7 @@
 	(segment
 		(start 83.58 212.42)
 		(end 80.5 215.5)
-		(width 0.2)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 14)
 		(uuid "d3ec6323-d9aa-4381-aaa9-f6d8fa7c5a25")
@@ -13801,11 +13809,11 @@
 				(xy 131.754989 177.809957) (xy 132.003702 177.750247) (xy 132.240012 177.652365) (xy 132.240015 177.652363)
 				(xy 132.458095 177.518724) (xy 132.45811 177.518713) (xy 132.461911 177.515466) (xy 132.461911 177.515464)
 				(xy 131.824025 176.877577) (xy 131.855258 176.864641) (xy 131.978097 176.782563) (xy 132.082563 176.678097)
-				(xy 132.164641 176.555258) (xy 132.177577 176.524025) (xy 132.815464 177.161911) (xy 132.815466 177.161911)
+				(xy 132.164641 176.555258) (xy 132.177578 176.524025) (xy 132.815464 177.161911) (xy 132.815466 177.161911)
 				(xy 132.818713 177.15811) (xy 132.818724 177.158095) (xy 132.952363 176.940015) (xy 132.952365 176.940012)
 				(xy 133.050247 176.703702) (xy 133.109957 176.454989) (xy 133.130024 176.2) (xy 133.109957 175.94501)
 				(xy 133.050247 175.696297) (xy 132.952365 175.459987) (xy 132.952363 175.459984) (xy 132.818719 175.241897)
-				(xy 132.815465 175.238087) (xy 132.177577 175.875974) (xy 132.164641 175.844742) (xy 132.082563 175.721903)
+				(xy 132.815465 175.238087) (xy 132.177578 175.875974) (xy 132.164641 175.844742) (xy 132.082563 175.721903)
 				(xy 131.978097 175.617437) (xy 131.855258 175.535359) (xy 131.824024 175.522421) (xy 132.461912 174.884533)
 				(xy 132.458107 174.881284) (xy 132.458098 174.881277) (xy 132.240015 174.747636) (xy 132.240012 174.747634)
 				(xy 132.003702 174.649752) (xy 131.754988 174.590042) (xy 131.754989 174.590042) (xy 131.5 174.569975)
