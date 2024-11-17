@@ -1,9 +1,0 @@
-Manufacturer=Murata Electronics
-PartNumber=CRE1S2405SC
-PartCategory=Power Supply
-PackageCategory=Other
-PinCount=4
-Version=1.1
-Released=2017-10-16 11:30:08
-Downloaded=2024-10-04 20:21:56
-3D=Y

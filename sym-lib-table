@@ -1,6 +1,6 @@
 (sym_lib_table
   (version 7)
-  (lib (name "DCDC conv")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_CRE1S2405SC/CRE1S2405SC/KiCad/CRE1S2405SC.kicad_sym")(options "")(descr ""))
+  (lib (name "DCDC conv")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_REC10K-2405SAW_H2/REC10K-2405SAW_H2/KiCad/REC10K-2405SAW_H2.kicad_sym")(options "")(descr ""))
   (lib (name "DCDC L")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_82103C/82103C/KiCad/82103C.kicad_sym")(options "")(descr ""))
   (lib (name "type c relay")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_G5LE-1-DC3/G5LE-1-DC3/KiCad/G5LE-1-DC3.kicad_sym")(options "")(descr ""))
   (lib (name "type a relay")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_G5LE-1A_DC3/G5LE-1A_DC3/KiCad/G5LE-1A_DC3.kicad_sym")(options "")(descr ""))

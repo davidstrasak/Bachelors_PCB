@@ -3,7 +3,7 @@
   (lib (name "DCDC L")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_82103C/82103C/KiCad")(options "")(descr ""))
   (lib (name "1x2 screw conn")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_1729128/1729128/KiCad")(options "")(descr ""))
   (lib (name "1x5 screw conn")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_1935190/1935190/KiCad")(options "")(descr ""))
-  (lib (name "dcdc converter")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_CRE1S2405SC/CRE1S2405SC/KiCad")(options "")(descr ""))
+  (lib (name "dcdc converter")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_REC10K-2405SAW_H2/REC10K-2405SAW_H2/KiCad")(options "")(descr ""))
   (lib (name "type c relay")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_G5LE-1-DC3/G5LE-1-DC3/KiCad")(options "")(descr ""))
   (lib (name "type a relay")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_G5LE-1A_DC3/G5LE-1A_DC3/KiCad")(options "")(descr ""))
   (lib (name "600 mA fuse")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_0PTF0078P/0PTF0078P/KiCad")(options "")(descr ""))
