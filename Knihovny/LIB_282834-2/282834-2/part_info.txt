@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=282834-2
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=2.4
+Released=2016-05-22 20:39:08
+Downloaded=2024-11-25 13:14:27
+3D=Y

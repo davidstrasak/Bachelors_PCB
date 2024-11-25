@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1935187
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=4.2
+Released=2020-07-14 09:17:59
+Downloaded=2024-11-25 13:47:55
+3D=Y

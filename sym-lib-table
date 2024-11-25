@@ -8,4 +8,6 @@
   (lib (name "470uF C")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_860010273011/860010273011/KiCad/860010273011.kicad_sym")(options "")(descr ""))
   (lib (name "schottky")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_SK16/SK16/KiCad/SK16.kicad_sym")(options "")(descr ""))
   (lib (name "mosfet")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_DMN65D8L-7/DMN65D8L-7/KiCad/DMN65D8L-7.kicad_sym")(options "")(descr ""))
+  (lib (name "1x2 screw conn")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_1729128/1729128/KiCad/1729128.kicad_sym")(options "")(descr ""))
+  (lib (name "1x5 screw conn")(type "KiCad")(uri "${KIPRJMOD}/Knihovny/LIB_1935190/1935190/KiCad/1935190.kicad_sym")(options "")(descr ""))
 )
