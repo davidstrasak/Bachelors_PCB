@@ -1,4 +1,4 @@
-20757225583831
+19058045677293
 1x2 screw conn
 1729128
 1729128
@@ -6,6 +6,13 @@ Connector
 0
 2
 2
+1x4 screw conn
+1935187
+1935187-1
+Connector
+0
+4
+4
 1x5 screw conn
 1935190
 1935190-1
@@ -97838,20 +97845,6 @@ Varistor VF
 0
 2
 2
-davidsFootprints
-KLS S1G04C W90 kolíková lišta pro LCD
-
-
-0
-4
-4
-davidsFootprints
-Lever switch R13-402C
-
-
-0
-3
-3
 dcdc converter
 REC10K-AW
 REC10K-AW
