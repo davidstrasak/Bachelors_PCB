@@ -5165,7 +5165,7 @@
 	)
 	(rectangle
 		(start 182.88 146.05)
-		(end 267.97 165.1)
+		(end 223.52 165.1)
 		(stroke
 			(width 0)
 			(type default)
@@ -6759,7 +6759,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 227.33 161.29 0)
+		(at 207.01 156.21 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -6767,8 +6767,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "235136a2-c097-41b0-817c-ac0780a1b1ad")
-		(property "Reference" "H9"
-			(at 229.87 160.0199 0)
+		(property "Reference" "H4"
+			(at 209.55 154.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6777,7 +6777,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 229.87 162.5599 0)
+			(at 209.55 157.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6786,7 +6786,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4mm"
-			(at 227.33 161.29 0)
+			(at 207.01 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6795,7 +6795,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 227.33 161.29 0)
+			(at 207.01 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6804,7 +6804,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 227.33 161.29 0)
+			(at 207.01 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6815,7 +6815,7 @@
 		(instances
 			(project "PCB"
 				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
-					(reference "H9")
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -7003,70 +7003,6 @@
 			(project ""
 				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
 					(reference "Fuse_1500mA_1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 227.33 154.94 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2bed8215-d53d-4e8f-8802-bd18bc40e812")
-		(property "Reference" "H8"
-			(at 229.87 153.6699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 229.87 156.2099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4mm"
-			(at 227.33 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 227.33 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 227.33 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "PCB"
-				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
-					(reference "H8")
 					(unit 1)
 				)
 			)
@@ -7263,70 +7199,6 @@
 			(project ""
 				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
 					(reference "SW_IncSpeed_3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 207.01 161.29 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "32ece3d1-79e2-455e-b707-a6e25974981f")
-		(property "Reference" "H6"
-			(at 209.55 160.0199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 209.55 162.5599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4mm"
-			(at 207.01 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 207.01 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 207.01 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "PCB"
-				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
-					(reference "H6")
 					(unit 1)
 				)
 			)
@@ -7589,70 +7461,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 186.69 154.94 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "462bc559-9fac-4b7d-98a6-582b81708abd")
-		(property "Reference" "H3"
-			(at 189.23 153.6699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 189.23 156.2099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4mm"
-			(at 186.69 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 186.69 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "PCB"
-				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
-					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VCC")
 		(at 153.67 99.06 0)
 		(unit 1)
@@ -7713,70 +7521,6 @@
 			(project "PCB"
 				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
 					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 227.33 149.86 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5205a765-44ee-4c69-9b4a-9b6d88c322e3")
-		(property "Reference" "H7"
-			(at 229.87 148.5899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 229.87 151.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3mm"
-			(at 227.33 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 227.33 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 227.33 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "PCB"
-				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
-					(reference "H7")
 					(unit 1)
 				)
 			)
@@ -9630,134 +9374,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 207.01 154.94 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "99df8cb3-e0d9-4f0e-aae6-7a6d2754bd56")
-		(property "Reference" "H4"
-			(at 209.55 153.6699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 209.55 156.2099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_5mm"
-			(at 207.01 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 207.01 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 207.01 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "PCB"
-				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
-					(reference "H4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 186.69 161.29 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9ff416a9-dae1-4f95-8310-d98d6f23207f")
-		(property "Reference" "H5"
-			(at 189.23 160.0199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 189.23 162.5599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_4mm"
-			(at 186.69 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 186.69 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "PCB"
-				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
-					(reference "H5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 83.82 189.23 0)
 		(unit 1)
@@ -10029,7 +9645,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 247.65 149.86 0)
+		(at 186.69 154.94 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -10037,8 +9653,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aec182e1-425d-4b42-8ce2-2d2dd46ed1d8")
-		(property "Reference" "H10"
-			(at 250.19 148.5899 0)
+		(property "Reference" "H3"
+			(at 189.23 153.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10047,7 +9663,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 250.19 151.1299 0)
+			(at 189.23 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10056,7 +9672,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3mm"
-			(at 247.65 149.86 0)
+			(at 186.69 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10065,7 +9681,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 247.65 149.86 0)
+			(at 186.69 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10074,7 +9690,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 247.65 149.86 0)
+			(at 186.69 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10085,7 +9701,7 @@
 		(instances
 			(project "PCB"
 				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
-					(reference "H10")
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -10093,7 +9709,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 247.65 156.21 0)
+		(at 186.69 161.29 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -10101,8 +9717,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6486763-d10b-47ea-941c-30f5d187f0d1")
-		(property "Reference" "H11"
-			(at 250.19 154.9399 0)
+		(property "Reference" "H5"
+			(at 189.23 160.0199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10111,7 +9727,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 250.19 157.4799 0)
+			(at 189.23 162.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10120,7 +9736,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3mm"
-			(at 247.65 156.21 0)
+			(at 186.69 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10129,7 +9745,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 247.65 156.21 0)
+			(at 186.69 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10138,7 +9754,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 247.65 156.21 0)
+			(at 186.69 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10149,7 +9765,7 @@
 		(instances
 			(project "PCB"
 				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
-					(reference "H11")
+					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -11600,8 +11216,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f0885b77-d188-485c-a0a0-588b3321155f")
-		(property "Reference" "U1"
-			(at 193.294 55.626 0)
+		(property "Reference" "U_WeMos_D1_Mini_Pro_1"
+			(at 185.166 79.502 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11609,8 +11225,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "WeMos_D1_mini"
-			(at 188.214 52.832 0)
+		(property "Value" "WeMos_D1_Mini_Pro"
+			(at 184.658 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11696,7 +11312,7 @@
 		(instances
 			(project ""
 				(path "/a03e0b08-fd2d-4304-b838-c1c22de42e47"
-					(reference "U1")
+					(reference "U_WeMos_D1_Mini_Pro_1")
 					(unit 1)
 				)
 			)
